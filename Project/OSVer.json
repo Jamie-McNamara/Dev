@@ -1,0 +1,98 @@
+[
+    {
+        "Version": "1507",
+        "Build": "10240",
+        "OS": "Windows 10"
+    },
+
+    {
+        "Version": "1511",
+        "Build": "10586",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1607",
+        "Build": "14393",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1703",
+        "Build": "15063",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1709",
+        "Build": "16299",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1803",
+        "Build": "17134",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1809",
+        "Build": "17763",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1903",
+        "Build": "18362",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "1909",
+        "Build": "18363",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "20H1 (2004)",
+        "Build": "19041",
+        "OS": "Windows 10"
+    },
+
+    {
+        "Version": "20H2",
+        "Build": "19042",
+        "OS": "Windows 10"
+    },
+
+    {
+        "Version": "21H1",
+        "Build": "19043",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "21H2",
+        "Build": "19044",
+        "OS": "Windows 10"
+    },
+    
+    {
+        "Version": "22H2",
+        "Build": "19045",
+        "OS": "Windows 10"
+    },
+
+    {
+        "Version": "21H2",
+        "Build": "22000",
+        "OS": "Windows 11"
+    },
+
+    {
+        "Version": "22H2",
+        "Build": "22621",
+        "OS": "Windows 11"
+    }
+    
+]
